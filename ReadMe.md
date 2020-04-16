@@ -35,8 +35,8 @@ Requirement is listed below:
 
 ### Library
 
-This program use various libraries. Each library plays important role of this
-program. In order to run correctly, please install these libraries first.
+This program use OpenCV for image manipulation. In order to run correctly,
+please install these libraries first.
 
 Essential Library is listed below:
 
