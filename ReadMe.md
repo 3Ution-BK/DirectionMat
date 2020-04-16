@@ -9,8 +9,8 @@ and CMake with OpenCV libraries.
 
 ### Build environment
 
-We have tested various build environment. For MSVC, we suggested to used 14.0
-(2015) and beyond since we use `noexcept` keyword in command line parser.
+We have tested various build environment. We suggest to use c++14 capable
+compiler.
 
 Below shows the working environment:
 
