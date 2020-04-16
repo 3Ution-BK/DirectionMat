@@ -2,7 +2,7 @@
 
 ## Overview
 
-This toy program demonstrate visualized flow image in HSV format by using C++
+This toy program demonstrates visualized flow image in HSV format by using C++
 and CMake with OpenCV libraries.
 
 ## Install and run
