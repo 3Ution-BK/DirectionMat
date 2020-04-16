@@ -1,0 +1,22 @@
+#ifndef DIRECTIONMAT_PROJECTCONFIGURES_H_
+#define DIRECTIONMAT_PROJECTCONFIGURES_H_
+
+namespace DirectionMat
+{
+
+namespace Application
+{
+
+constexpr const char *projectInfo();
+
+constexpr const char *projectInfo()
+{
+    return "@PROJECT_NAME@ @PROJECT_VERSION@\n"
+           "@PROJECT_DESCRIPTION@";
+}
+
+} // namespace Application
+
+} // namespace DirectionMat
+
+#endif // DIRECTIONMAT_PROJECTCONFIGURES_H_
